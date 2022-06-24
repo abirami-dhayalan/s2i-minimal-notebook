@@ -6,16 +6,16 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-notebook = "~=6.4.0"
-jupyterhub = "~=1.5.0"
-jupyterlab = "~=3.1.0"
-jupyterlab-requirements = "==0.14.0"
-jupyter_kernel_gateway = "==2.4.0"
-jupyter-nbrequirements = "*"
-supervisor = "==4.1.0"
-jupyterlab-git = "==0.36.0"
-jupyterlab-tabnine = "==0.0.24"
-jupyterlab-spellchecker = "~=0.7.2"
+notebook = "~=6.4.12"
+jupyterhub = "2.3.1"
+jupyterlab = "3.4.3"
+jupyterlab-requirements = "0.16.1"
+jupyter_kernel_gateway = "2.5.1"
+jupyter-nbrequirements = "0.7.3"
+supervisor = "4.2.4"
+jupyterlab-git = "0.37.1"
+jupyterlab-tabnine = "0.0.24"
+jupyterlab-spellchecker = "0.7.2"
 
 [requires]
 python_version = "3.9"
